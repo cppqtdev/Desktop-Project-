@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/background.jpg</file>
+        <file>Component/RoundRectangle.qml</file>
+        <file>Icons/apps/AppStore.svg</file>
+        <file>Icons/apps/beatpill.svg</file>
+        <file>Icons/apps/calculator.svg</file>
+        <file>Icons/apps/camera.svg</file>
+        <file>Icons/apps/clock.svg</file>
+        <file>Icons/apps/compass.svg</file>
+        <file>Icons/apps/contact.svg</file>
+        <file>Icons/apps/facetime.svg</file>
+        <file>Icons/apps/files.svg</file>
+        <file>Icons/apps/home.svg</file>
+        <file>Icons/apps/itune.svg</file>
+        <file>Icons/apps/Message.svg</file>
+        <file>Icons/apps/Music.png</file>
+        <file>Icons/apps/Notes.svg</file>
+        <file>Icons/apps/Phone.svg</file>
+        <file>Icons/apps/photos.svg</file>
+        <file>Icons/apps/remainders.svg</file>
+        <file>Icons/apps/safari.svg</file>
+        <file>Icons/apps/settings.svg</file>
+        <file>Icons/apps/tv.svg</file>
+        <file>Icons/apps/wallet.svg</file>
+        <file>Component/IconButton.qml</file>
+        <file>Icons/model3-icon.svg</file>
+        <file>Icons/seat.svg</file>
+        <file>Icons/volume.svg</file>
+        <file>Icons/phone.svg</file>
+        <file>Icons/music.svg</file>
+        <file>Icons/fan.svg</file>
+        <file>Icons/Driver Temp.svg</file>
+        <file>Icons/heater.svg</file>
+        <file>Icons/defrost.svg</file>
+        <file>Icons/brightness.svg</file>
+        <file>Icons/bluetooth.svg</file>
+        <file>Icons/Tesla Logo.svg</file>
+        <file>Icons/lence.svg</file>
+        <file>Component/Acrylic.qml</file>
+    </qresource>
+</RCC>
